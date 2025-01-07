@@ -1,0 +1,14 @@
+shapely
+scipy
+pygments
+gltf
+seaborn
+opencv-python
+progressbar
+gymnasium
+torch
+pygame
+panda3d
+tqdm
+matplotlib 
+imageio 
